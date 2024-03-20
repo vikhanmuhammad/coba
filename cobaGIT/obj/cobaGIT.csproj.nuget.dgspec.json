@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kuliah\\Koreksi Asprak\\KPL\\cobaGIT\\cobaGIT\\cobaGIT.csproj": {}
+    "D:\\Kuliah\\Koreksi Asprak\\KPL\\coba\\cobaGIT\\cobaGIT\\cobaGIT.csproj": {}
   },
   "projects": {
-    "D:\\Kuliah\\Koreksi Asprak\\KPL\\cobaGIT\\cobaGIT\\cobaGIT.csproj": {
+    "D:\\Kuliah\\Koreksi Asprak\\KPL\\coba\\cobaGIT\\cobaGIT\\cobaGIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kuliah\\Koreksi Asprak\\KPL\\cobaGIT\\cobaGIT\\cobaGIT.csproj",
+        "projectUniqueName": "D:\\Kuliah\\Koreksi Asprak\\KPL\\coba\\cobaGIT\\cobaGIT\\cobaGIT.csproj",
         "projectName": "cobaGIT",
-        "projectPath": "D:\\Kuliah\\Koreksi Asprak\\KPL\\cobaGIT\\cobaGIT\\cobaGIT.csproj",
+        "projectPath": "D:\\Kuliah\\Koreksi Asprak\\KPL\\coba\\cobaGIT\\cobaGIT\\cobaGIT.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Kuliah\\Koreksi Asprak\\KPL\\cobaGIT\\cobaGIT\\obj\\",
+        "outputPath": "D:\\Kuliah\\Koreksi Asprak\\KPL\\coba\\cobaGIT\\cobaGIT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
